@@ -29,10 +29,10 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
     Source: LITA
     Columns/Variables: Revenue, Subscription start, Subscription end, Cancelled.
   
-### Methodology
-    ---------------------------------------------------------------------------------------------------------------
-
-# Data Cleaning and Preparation
+## Methodology    
+    ---------------------------------------------------------------------------
+ + Data Cleaning and Preparation
+   
  _**Used Microsoft Excel**_
  
  - removed duplicates first
