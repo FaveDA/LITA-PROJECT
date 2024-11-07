@@ -33,8 +33,8 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
     ---------------------------------------------------------------------------------------------------------------
 
 # Data Cleaning and Preparation
- + Used Microsoft Excel 
- - removed duplicates first
+_  **Used Microsoft Excel**
+_ - removed duplicates first
  - created a revenue column on capstone data
  - performed some metrics using formulas
  - used pivot table to showcase average and sums of some values
@@ -58,7 +58,7 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
 
 ![Customer data pivot table 3](https://github.com/user-attachments/assets/af32dbb3-126c-4f96-9ff0-62e753884491)
 
-### SQL
+_**USED SQL**_
  - created a database, named it LITA PROJECT
  - imported a flat file which is the clean csv format dataset 
  - wrote my queries in line with the project questions asked
