@@ -1,6 +1,8 @@
 # LITA PROJECT
+---------------------------------------------
 
 ### Project Title: MY LITA PROJECT DOCUMENTATION
+----------------------------------------------------------------
 
 ### Project Overview: 
 ----------------------------------------
@@ -19,29 +21,28 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
 
   ### Dataset description
   ----------------------------------------------------------------------------------------
-    - Dataset 1: Capstone Data
+# Dataset 1: Capstone Data
     Source: LITA
     Columns/Variables: OrderID, CustomerID, Region, Quantity, Revenue...
 
-    - Dataset 2: Customer Data
+# Dataset 2: Customer Data
     Source: LITA
     Columns/Variables: Revenue, Subscription start, Subscription end, Cancelled.
   
-
-    #### Methodology
+### Methodology
     ---------------------------------------------------------------------------------------------------------------
 
-     Data Cleaning and Preparation
-    Used MIcrosoft Excel 
+# Data Cleaning and Preparation
+    + Used MIcrosoft Excel 
     - removed duplicates first
     - created a revenue column on capstone data
     - performed some metrics using formulas
     - used pivot table to showcase average and sums of some values
     - used pivot table to create charts(bar chart, pie chart and flow chart).
 
-    ### MICROSOFT EXCEL VISUALIZATION
+## MICROSOFT EXCEL VISUALIZATION
 
-    FROM CAPSTONE DATASET
+**FROM CAPSTONE DATASET**
 
   ![Capstone dataset 2](https://github.com/user-attachments/assets/fffc5ca3-26f3-4c20-a7c9-bba96879ce9e)
 
@@ -49,7 +50,7 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
 
 ![Capstone data charts](https://github.com/user-attachments/assets/dfdbf91a-d7c9-4b97-9ea7-f2bf2c1a02b6)
 
-FROM CUSTOMER DATA
+**FROM CUSTOMER DATA**
 
 ![Customer data pivot tables](https://github.com/user-attachments/assets/4816241e-49bb-473a-b0e0-76d7bec89233)
 
@@ -57,10 +58,9 @@ FROM CUSTOMER DATA
 
 ![Customer data pivot table 3](https://github.com/user-attachments/assets/af32dbb3-126c-4f96-9ff0-62e753884491)
 
+### SQL
 
-
-    # Used SQL
-    - create a database, named it LITA PROJECT
+    - created a database, named it LITA PROJECT
     - imported a flat file which is the clean csv format dataset 
     - wrote my queries in line with the project questions asked
     - executed the queries as I wrote them. 
