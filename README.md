@@ -10,9 +10,12 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
 
 ### Technologies Used:
 --------------------------------------------------------------------------------------------------------------------------
-  - Microsoft Excel  www.microsoftexcel.com (data modeling, data visualisation)
+  - Microsoft Excel  Microsoft Excel 	[Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+     a. Simple Arithmetics
+   2. Data modeling, data visualisation
   - SQL (data extraction, querying)
-  - PowerBI (data visualisation, reporting)
+  - PowerBI 	[Download Here](https://www.microsoft.com) (data visualisation, reporting)
   - Github (documentation)
 
   ### Project Information:
