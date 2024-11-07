@@ -33,8 +33,9 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
     ---------------------------------------------------------------------------------------------------------------
 
 # Data Cleaning and Preparation
-_  **Used Microsoft Excel**
-_ - removed duplicates first
+ _**Used Microsoft Excel**_
+ 
+ - removed duplicates first
  - created a revenue column on capstone data
  - performed some metrics using formulas
  - used pivot table to showcase average and sums of some values
