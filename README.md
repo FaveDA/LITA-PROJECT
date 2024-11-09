@@ -17,22 +17,17 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
       
   - SQL (data extraction, querying)
   - PowerBI 	[Download Here](https://www.microsoft.com) (data visualisation, reporting)
-  - Github (documentation)
+  - Github (documentation and portfolio building)
 
   ### Project Information:
 ----------------------------------------------------------------------------------------------------------------------------------
   This project analysed two datasets using Microsoft Excel, SQL, and POWERBI to answer some key business related questions
 
-  ### Data description
+  ### Data Sources
   ----------------------------------------------------------------------------------------
-# Dataset 1: Sales Data
-    Source: LITA
-    Columns/Variables: OrderID, CustomerID, Region, Quantity, Revenue...
+  1) Custpmer service interactions
+  2) Customer surveys and feedbacks
 
-# Dataset 2: Customer Data
-    Source: LITA
-    Columns/Variables: Revenue, Subscription start, Subscription end, Cancelled.
-  
 ## Methodology    
     ---------------------------------------------------------------------------
  + Data Cleaning and Preparation
@@ -40,20 +35,12 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
  _**Used Microsoft Excel**_
  
  - removed duplicates first
- - created a revenue column on capstone data
+ - created a new column for subcription duration
  - performed some metrics using formulas
  - used pivot table to showcase average and sums of some values
  - used pivot table to create charts(bar chart, pie chart and flow chart).
 
 ## MICROSOFT EXCEL VISUALIZATION
-
-**FROM SALES DATA**
-
-  ![Sales dataset and metrics ](https://github.com/user-attachments/assets/fffc5ca3-26f3-4c20-a7c9-bba96879ce9e)
-
-   ![Sales pivot tables](https://github.com/user-attachments/assets/57485cf8-90d1-4830-8704-19b001e5b722)
-
-![Sales data charts](https://github.com/user-attachments/assets/dfdbf91a-d7c9-4b97-9ea7-f2bf2c1a02b6)
 
 **FROM CUSTOMER DATA**
 
@@ -65,9 +52,9 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
 
 _**USED SQL**_
 
-**QUERIES USED FOR THE SALES DATA**
+**QUERIES USED FOR THE CUSTOMER DATA**
     
- - created a database, named it LITA PROJECT
+ - created a database, named it CUSTOMER
  - imported a flat file which is the clean csv format dataset 
  - wrote my queries in line with the project questions asked
  - executed the queries as I wrote them. 
@@ -86,19 +73,35 @@ _**USED SQL**_
 **FROM EXCEL AND SQL**
   Our analysis reveals that:
   
-SALES DATA
-  - Most revenue is generated in the Southern region and less revenue is generated in the Western region.
-  - Most revenue is generated from the sales of Shoes, the least revenue is generated from the sales of Socks.
-
-CUSTOMER DATA
   - Most popular subscription type is Basic. Least popular is Standard.
   - Most revenue is generated from the East. Least revenue is generated from the West.
   - The highest selling product is Hat. The least selling product is Jacket.
 
-    ### CUSTOMER SEGMENTATION
+ ### CUSTOMER SEGMENTATION
     ---------------------------------------------------------------------------------------------
 1. Regional Analysis: Customer's concentration in East(25.11%), South(25.02%), West(24.97%) and North(24.9%).
 2. Subscription Types: Basic(50.1%), Premium(25.02%) and Standard(24.97%).
 
+### SUBSCRIPTION TRENDS
+-----------------------------------------------------------------------------------------
+1) Average Subscription Duration: 12 months.
+2) Cancellation Rate: 20% of customers cancel within 6 months.
+3) Revenue Trends: Monthly subscription generate 50% of total revenue.
 
+
+    ### POWERBI VISUALIZATION
+
+![Customer data powerBI](https://github.com/user-attachments/assets/69e46da1-0685-4b52-bd0c-ee198e9e78f1)
+
+### RECOMMENDATIONS
+------------------------------------------------------------------------------------------------------
+1. Target marketing efforts towars North and West.
+2. Offer incentives for annual subscriptions.
+3. Improve customer retention strategies.
+
+   ### CONCLUSION
+   -------------------------------------------------------------------------------------------
+This project demonstrates the importance of effective customer data management, providing insights into customer behaviour, preferences and needs. It showcases visualized key findings and trends. 
+
+   
     
