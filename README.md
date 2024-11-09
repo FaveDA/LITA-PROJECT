@@ -46,13 +46,13 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
 
 ## MICROSOFT EXCEL VISUALIZATION
 
-**FROM CAPSTONE DATASET**
+**FROM SALES DATASET**
 
-  ![Capstone dataset 2](https://github.com/user-attachments/assets/fffc5ca3-26f3-4c20-a7c9-bba96879ce9e)
+  ![Sales dataset and metrics ](https://github.com/user-attachments/assets/fffc5ca3-26f3-4c20-a7c9-bba96879ce9e)
 
-   ![Capstone metrics](https://github.com/user-attachments/assets/57485cf8-90d1-4830-8704-19b001e5b722)
+   ![Sales pivot tables](https://github.com/user-attachments/assets/57485cf8-90d1-4830-8704-19b001e5b722)
 
-![Capstone data charts](https://github.com/user-attachments/assets/dfdbf91a-d7c9-4b97-9ea7-f2bf2c1a02b6)
+![Sales data charts](https://github.com/user-attachments/assets/dfdbf91a-d7c9-4b97-9ea7-f2bf2c1a02b6)
 
 **FROM CUSTOMER DATA**
 
@@ -79,7 +79,21 @@ _**USED SQL**_
 
 ![SQL customerdata](https://github.com/user-attachments/assets/1914fd82-2d4d-461e-b3cc-45e2b480d2aa)
 
-### CONCLUSION FROM SQL
+### CONCLUSION DRAWN FROM VISUALISATION
+
+**FROM EXCEL AND POWERBI**
+  Our analysis reveals that:
+  
+SALES DATA
+  - Most revenue is generated in the Southern region and less revenue is generated in the Western region.
+  - Most revenue is generated from the sales of Shoes, the least revenue is generated from the sales of Socks.
+
+CUSTOMER DATA
+  - Most popular subscription type is Basic.Least popular is Standard
+  - Most revenue is generated from the East. Least revenue is generated from the West
+  - The highest selling product is Hat. The least selling product is Jacket
+
+    
 
 
 
