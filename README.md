@@ -81,6 +81,7 @@ _**USED SQL**_
 ![SQL customerdata](https://github.com/user-attachments/assets/1914fd82-2d4d-461e-b3cc-45e2b480d2aa)
 
 ### CONCLUSION DRAWN FROM VISUALISATION
+--------------------------------------------------------------------------------------------------
 
 **FROM EXCEL AND SQL**
   Our analysis reveals that:
@@ -94,8 +95,10 @@ CUSTOMER DATA
   - Most revenue is generated from the East. Least revenue is generated from the West.
   - The highest selling product is Hat. The least selling product is Jacket.
 
-    
-
+    ### CUSTOMER SEGMENTATION
+    ---------------------------------------------------------------------------------------------
+1. Regional Analysis: Customer's concentration in East(25.11%), South(25.02%), West(24.97%) and North(24.9%).
+2. Subscription Types: Basic(50.1%), Premium(25.02%) and Standard(24.97%).
 
 
     
