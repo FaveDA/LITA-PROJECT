@@ -1,12 +1,12 @@
 # LITA PROJECT
 ---------------------------------------------
 
-### Project Title: MY LITA PROJECT DOCUMENTATION
+### Project Title: CUSTOMER DATA DOCUMENTATION
 ----------------------------------------------------------------
 
 ### Project Overview: 
 ----------------------------------------
-This Data Analysis project develops an interactive sales analytics dashboard using Microsoft Excel, SQL, and powerBI. The dashboard provides insights into sales trend, customer behaviour, and product performance, enabling data-driven decisions.
+This Data Analysis project contains data and documentation for analysing and visualizing customer data. It develops an interactive analytics dashboard using Microsoft Excel, SQL, and powerBI. The dashboard provides insights into customer behaviour, preferences, needs, and product performance, enabling data-driven decisions.
 
 ### Technologies Used:
 --------------------------------------------------------------------------------------------------------------------------
