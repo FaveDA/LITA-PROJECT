@@ -14,6 +14,7 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
   1. For Data Cleaning
      a. Simple Arithmetics
    2. Data modeling, data visualisation
+      
   - SQL (data extraction, querying)
   - PowerBI 	[Download Here](https://www.microsoft.com) (data visualisation, reporting)
   - Github (documentation)
@@ -22,9 +23,9 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
 ----------------------------------------------------------------------------------------------------------------------------------
   This project analysed two datasets using Microsoft Excel, SQL, and POWERBI to answer some key business related questions
 
-  ### Dataset description
+  ### Data description
   ----------------------------------------------------------------------------------------
-# Dataset 1: Capstone Data
+# Dataset 1: Sales Data
     Source: LITA
     Columns/Variables: OrderID, CustomerID, Region, Quantity, Revenue...
 
@@ -46,7 +47,7 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
 
 ## MICROSOFT EXCEL VISUALIZATION
 
-**FROM SALES DATASET**
+**FROM SALES DATA**
 
   ![Sales dataset and metrics ](https://github.com/user-attachments/assets/fffc5ca3-26f3-4c20-a7c9-bba96879ce9e)
 
@@ -64,7 +65,7 @@ This Data Analysis project develops an interactive sales analytics dashboard usi
 
 _**USED SQL**_
 
-**QUERIES USED FOR THE CAPSTONE DATASET**
+**QUERIES USED FOR THE SALES DATA**
     
  - created a database, named it LITA PROJECT
  - imported a flat file which is the clean csv format dataset 
@@ -81,7 +82,7 @@ _**USED SQL**_
 
 ### CONCLUSION DRAWN FROM VISUALISATION
 
-**FROM EXCEL AND POWERBI**
+**FROM EXCEL AND SQL**
   Our analysis reveals that:
   
 SALES DATA
@@ -89,9 +90,9 @@ SALES DATA
   - Most revenue is generated from the sales of Shoes, the least revenue is generated from the sales of Socks.
 
 CUSTOMER DATA
-  - Most popular subscription type is Basic.Least popular is Standard
-  - Most revenue is generated from the East. Least revenue is generated from the West
-  - The highest selling product is Hat. The least selling product is Jacket
+  - Most popular subscription type is Basic. Least popular is Standard.
+  - Most revenue is generated from the East. Least revenue is generated from the West.
+  - The highest selling product is Hat. The least selling product is Jacket.
 
     
 
