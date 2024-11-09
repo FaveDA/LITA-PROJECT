@@ -90,7 +90,7 @@ _**USED SQL**_
 
 ### RECOMMENDATIONS
 ------------------------------------------------------------------------------------------------------
-1. Target marketing efforts towars North and West.
+1. Target marketing efforts towards North and West.
 2. Offer incentives for annual subscriptions.
 3. Improve customer retention strategies.
 
