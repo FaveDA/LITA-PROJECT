@@ -24,12 +24,12 @@ This Data Analysis project contains data and documentation for analysing and vis
   This project analysed two datasets using Microsoft Excel, SQL, and POWERBI to answer some key business related questions
 
   ### Data Sources
-  ----------------------------------------------------------------------------------------
-  1) Custpmer service interactions
+----------------------------------------------------------------------------------------
+  1) Customer service interactions
   2) Customer surveys and feedbacks
 
 ## Methodology    
-    ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
  + Data Cleaning and Preparation
    
  _**Used Microsoft Excel**_
@@ -61,10 +61,6 @@ _**USED SQL**_
 
 ### SQL VISUALIZATION
 
-![SQL 1](https://github.com/user-attachments/assets/2449612b-a8c9-49d7-b1b9-a1d821f89537)
-
-![SQL 2](https://github.com/user-attachments/assets/56e39b2b-d721-4832-bc37-60ff870f4e07)
-
 ![SQL customerdata](https://github.com/user-attachments/assets/1914fd82-2d4d-461e-b3cc-45e2b480d2aa)
 
 ### CONCLUSION DRAWN FROM VISUALISATION
@@ -78,7 +74,7 @@ _**USED SQL**_
   - The highest selling product is Hat. The least selling product is Jacket.
 
  ### CUSTOMER SEGMENTATION
-    ---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 1. Regional Analysis: Customer's concentration in East(25.11%), South(25.02%), West(24.97%) and North(24.9%).
 2. Subscription Types: Basic(50.1%), Premium(25.02%) and Standard(24.97%).
 
@@ -88,8 +84,7 @@ _**USED SQL**_
 2) Cancellation Rate: 20% of customers cancel within 6 months.
 3) Revenue Trends: Monthly subscription generate 50% of total revenue.
 
-
-    ### POWERBI VISUALIZATION
+### POWERBI VISUALIZATION
 
 ![Customer data powerBI](https://github.com/user-attachments/assets/69e46da1-0685-4b52-bd0c-ee198e9e78f1)
 
@@ -99,8 +94,8 @@ _**USED SQL**_
 2. Offer incentives for annual subscriptions.
 3. Improve customer retention strategies.
 
-   ### CONCLUSION
-   -------------------------------------------------------------------------------------------
+### CONCLUSION
+-------------------------------------------------------------------------------------------
 This project demonstrates the importance of effective customer data management, providing insights into customer behaviour, preferences and needs. It showcases visualized key findings and trends. 
 
    
