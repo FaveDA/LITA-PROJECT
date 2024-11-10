@@ -1,8 +1,31 @@
-# LITA PROJECT
+# CUSTOMER DATA PROJECT
 ---------------------------------------------
 
 ### Project Title: CUSTOMER DATA DOCUMENTATION
 ----------------------------------------------------------------
+
+[Project Overview](#project-overview)
+ 
+ [Technologies Used](#technologies-used)
+ 
+ [Data Sources](#data-sources)
+ 
+ [Methodology](#methodology)
+
+ [Microsoft Excel Visualization](#microsoft-excel-visualization).
+
+ [SQL Visualization](#sql-visualization)
+ 
+ [Customer Segmentation](#customer-segmentation)
+ 
+ [Subscription Trends](#subscription-trends)
+ 
+  [POWERBI VISUALIZATION](#powerbi-visualization)
+ 
+ [RECOMMENDATIONS](#recommendations)
+ 
+ [CONCLUSION](#conclusion)
+
 
 ### Project Overview: 
 ----------------------------------------
@@ -21,7 +44,7 @@ This Data Analysis project contains data and documentation for analysing and vis
 
   ### Project Information:
 ----------------------------------------------------------------------------------------------------------------------------------
-  This project analysed two datasets using Microsoft Excel, SQL, and POWERBI to answer some key business related questions
+  This project analysed customer data using Microsoft Excel, SQL, and POWERBI to answer some key business related questions
 
   ### Data Sources
 ----------------------------------------------------------------------------------------
@@ -29,9 +52,7 @@ This Data Analysis project contains data and documentation for analysing and vis
   2) Customer surveys and feedbacks
 
 ## Methodology    
----------------------------------------------------------------------------
- + Data Cleaning and Preparation
-   
+
  _**Used Microsoft Excel**_
  
  - removed duplicates first
